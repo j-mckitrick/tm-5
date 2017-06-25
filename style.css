@@ -1,0 +1,45 @@
+/* Ticketmaster download style */
+
+td {
+    padding: 0 2px;
+}
+
+.login-window {
+ background: lightblue;
+    text-align: center;
+}
+
+.ordersTable {
+    text-align: center;
+    border-collapse: collapse;
+    background: lightblue;
+}
+
+.hugefield {
+    width: 20em;
+}
+
+.widefield {
+    width: 12em;
+}
+
+.mediumfield {
+    width: 10em;
+}
+
+.narrowfield {
+    width: 6em;
+}
+
+.datefield {
+    width: 8em;
+}
+
+.ro {
+    background: lightblue;
+    border: 0px;
+}
+
+tr.hilite {
+    background: lightyellow;
+}
